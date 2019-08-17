@@ -29,7 +29,6 @@ Links
 -----
 
 * [Original Website](http://www.dplate.de/)
-* [My Development Blog](http://dev.my-gate.net/)
 
 
 ------------------------------
